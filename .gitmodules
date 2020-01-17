@@ -1,0 +1,6 @@
+[submodule "wil"]
+	path = wil
+	url = https://github.com/microsoft/wil.git
+[submodule "rapidjson"]
+	path = rapidjson
+	url = https://github.com/Tencent/rapidjson.git
