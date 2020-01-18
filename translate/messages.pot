@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-18 11:17+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: DevToggle.cpp:27 DevToggle.cpp:142 DevToggle.cpp:162
+msgid "DevToggle"
+msgstr ""
+
+#: DevToggle.cpp:27
+msgid ""
+"32bit applications can not enable/disable devices on 64bit OS, do you want "
+"to continue?"
+msgstr ""
+
+#: DevToggle.cpp:91
+msgid "Unknown Device"
+msgstr ""
+
+#: DevToggle.cpp:119
+msgid "E&xit"
+msgstr ""
+
+#: DevToggle.cpp:190
+msgid "The device needs reboot to change its state."
+msgstr ""
+
+#: DevToggle.cpp:196
+msgid "Failed to toggle device state."
+msgstr ""
