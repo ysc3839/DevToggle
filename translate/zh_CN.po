@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-18 11:17+0800\n"
+"PO-Revision-Date: 2020-01-18 11:29+0800\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"Last-Translator: Richard Yu <yurichard3839@gmail.com>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_CN\n"
+
+#: DevToggle.cpp:27 DevToggle.cpp:142 DevToggle.cpp:162
+msgid "DevToggle"
+msgstr ""
+
+#: DevToggle.cpp:27
+msgid ""
+"32bit applications can not enable/disable devices on 64bit OS, do you want "
+"to continue?"
+msgstr "32位应用程序无法在64位操作系统上启用/禁用设备，你想要继续吗？"
+
+#: DevToggle.cpp:91
+msgid "Unknown Device"
+msgstr "未知设备"
+
+#: DevToggle.cpp:119
+msgid "E&xit"
+msgstr "退出"
+
+#: DevToggle.cpp:190
+msgid "The device needs reboot to change its state."
+msgstr "此设备需要重启以改变状态"
+
+#: DevToggle.cpp:196
+msgid "Failed to toggle device state."
+msgstr "无法切换设备状态"

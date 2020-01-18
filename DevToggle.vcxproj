@@ -191,6 +191,7 @@
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="DevToggle.rc" />
+    <ResourceCompile Include="translate\ymo.rc" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="DevToggle.ico" />

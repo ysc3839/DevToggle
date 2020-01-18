@@ -1,0 +1,4 @@
+#include "windows.h"
+
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+1 YMO "zh_CN.ymo"

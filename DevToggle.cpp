@@ -15,6 +15,7 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance,
 	g_hInst = hInstance;
 	g_exePath = GetModuleFsPath(hInstance);
 	SetCurrentDirectoryW(g_exePath.c_str());
+	LoadTranslateData();
 
 #ifndef _WIN64
 	BOOL isWow64;

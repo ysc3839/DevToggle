@@ -58,6 +58,9 @@
     <ResourceCompile Include="DevToggle.rc">
       <Filter>Resource Files</Filter>
     </ResourceCompile>
+    <ResourceCompile Include="translate\ymo.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
     <Image Include="DevToggle.ico">
